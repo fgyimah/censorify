@@ -1,0 +1,1 @@
+This is a javascript package that censors words out of a text
