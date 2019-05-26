@@ -1,0 +1,11 @@
+{
+    "author": "Gyimah Francis",
+    "name": "censorify",
+    "version": "0.0.1",
+    "description": "censors words out of a text",
+    "main": "censortext",
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
