@@ -4,6 +4,14 @@
     "version": "0.0.1",
     "description": "censors words out of a text",
     "main": "censortext",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fgyimah/censorify"
+    },
+    "keywords": [
+        "words",
+        "censor"
+    ],
     "dependencies": {},
     "engines": {
         "node": "*"
